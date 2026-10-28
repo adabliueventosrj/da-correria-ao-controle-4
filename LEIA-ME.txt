@@ -1,0 +1,11 @@
+SITE DE VENDAS — DA CORRERIA AO CONTROLE
+
+Arquivos:
+- index.html — página do site
+- capa.png — capa original extraída do PDF final
+- apresentacao.mp4 — vídeo de apresentação enviado pelo autor
+
+Para testar: abra index.html no navegador (o botão de copiar Pix pode exigir hospedagem HTTPS).
+Para publicar: envie os três arquivos para a raiz de um site estático, como Cloudflare Pages ou Netlify.
+Importante: o link de pagamento é o Mercado Pago informado pelo autor. Não há entrega automática nem PDF/EPUB público.
+O texto instrui o comprador a enviar o comprovante pelo canal de atendimento original.
